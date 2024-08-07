@@ -5,13 +5,7 @@
 
 - 🌱 I’m currently learning **JS, Vue**
 
-- 👯 I’m looking to collaborate on [FiveCity](not available)
-
-- 🤝 I’m looking for help with [not available](not available)
-
-- 👨‍💻 All of my projects are available at [not available](not available)
-
-- 📝 I regularly write articles on [not available](not available)
+- 👯 I’m looking to collaborate on [FiveCity](https://fivecity.net)
 
 - 💬 Ask me about **Lua**
 

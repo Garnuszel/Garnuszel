@@ -41,11 +41,13 @@
   </a> 
 </p>
 
-<div style="display: flex; justify-content: space-between;">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Garnuszel&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="Garnuszel's GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garnuszel&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="Garnuszel's GitHub Stats" />
-  </p>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Garnuszel&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="Garnuszel's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garnuszel&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="Garnuszel's GitHub Stats" />
+    </td>
+  </tr>
+</table>

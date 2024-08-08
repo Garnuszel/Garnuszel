@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on [FiveCity](https://fivecity.net)
 
-- 💬 Ask me about **Lua**
-
 - 📫 How to reach me **fanszanelki@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

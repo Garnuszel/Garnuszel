@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garnuszek</h1>
-<h3 align="center">UI Desinger</h3>
+<h3 align="center">UI Desinger, Fivem Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garnuszel&label=Profile%20views&color=0e75b6&style=flat" alt="garnuszel" /> </p>
 

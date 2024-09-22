@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garnuszel&label=Profile%20views&color=0e75b6&style=flat" alt="garnuszel" /> </p>
 
 
-- 🔭 I’m currently working on [BeachRP]
+- 🔭 I’m currently working on [AstroRP]
 
 - 🌱 I’m currently learning **JS, Vue**
 

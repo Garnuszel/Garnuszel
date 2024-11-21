@@ -5,7 +5,7 @@ Cześć! Mam na imię Maciek, ale w społeczności jestem znany jako **Garnuszek
 Jestem **FiveM Developerem** i **UI Designerem** z ponad **5-letnim doświadczeniem**.  
 
 💻 Specjalizuję się w:  
-- Tworzeniu zaawansowanych skryptów Lua dla FiveM  
+- Tworzeniu zaawansowanych skryptów Lua  
 - Projektowaniu nowoczesnych i intuicyjnych interfejsów użytkownika (UI)  
 
 🎯 Pracowałem dla wielu znanych serwerów roleplay, takich jak:  

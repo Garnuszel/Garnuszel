@@ -9,12 +9,19 @@ Jestem **FiveM Developerem** i **UI Designerem** z ponad **5-letnim doświadczen
 - Projektowaniu nowoczesnych i intuicyjnych interfejsów użytkownika (UI)  
 
 🎯 Pracowałem dla wielu znanych serwerów roleplay, takich jak:  
-- ![WaitRP](https://example.com/logo-waitrp.png) **WaitRP**  
-- ![WavesRP](https://example.com/logo-wavesrp.png) **WavesRP**  
-- ![AstroRP](https://cdn.discordapp.com/attachments/935965291664539668/1309099532776112168/logo.png?ex=67405972&is=673f07f2&hm=8cba43780351aa9fffd82bdfb8d6647ee98a5d23b34ebd4917a0c8d6e7ba2495&) **AstroRP**  
-- ![PhantomRP](https://example.com/logo-phantomrp.png) **PhantomRP**  
-- ![OneRP](https://example.com/logo-onerp.png) **OneRP**  
-- ![OrionRP](https://cdn.discordapp.com/attachments/935965291664539668/1309099532512137216/isdamage.png?ex=67405972&is=673f07f2&hm=f92a3184fd788b5246381216985ca9916e6a2225f853095647530f458fc8b189&) **OrionRP**  
+<p align="left">
+  <img src="https://example.com/logo-waitrp.png" alt="WaitRP" width="20"/> **WaitRP**  
+  <br>
+  <img src="https://example.com/logo-wavesrp.png" alt="WavesRP" width="20"/> **WavesRP**  
+  <br>
+  <img src="https://cdn.discordapp.com/attachments/935965291664539668/1309099532776112168/logo.png?ex=67405972&is=673f07f2&hm=8cba43780351aa9fffd82bdfb8d6647ee98a5d23b34ebd4917a0c8d6e7ba2495&" alt="AstroRP" width="20"/> **AstroRP**  
+  <br>
+  <img src="https://example.com/logo-phantomrp.png" alt="PhantomRP" width="20"/> **PhantomRP**  
+  <br>
+  <img src="https://example.com/logo-onerp.png" alt="OneRP" width="20"/> **OneRP**  
+  <br>
+  <img src="https://cdn.discordapp.com/attachments/935965291664539668/1309099532512137216/isdamage.png?ex=67405972&is=673f07f2&hm=f92a3184fd788b5246381216985ca9916e6a2225f853095647530f458fc8b189&" alt="OrionRP" width="20"/> **OrionRP**  
+</p>
 
 Moim celem jest dołączenie do zespołu **FiveCity**, gdzie mógłbym kontynuować swoją pasję i rozwijać unikalne projekty!
 

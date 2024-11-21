@@ -9,12 +9,12 @@ Jestem **FiveM Developerem** i **UI Designerem** z ponad **5-letnim doświadczen
 - Projektowaniu nowoczesnych i intuicyjnych interfejsów użytkownika (UI)  
 
 🎯 Pracowałem dla wielu znanych serwerów roleplay, takich jak:  
-- WaitRP  
-- WavesRP  
-- AstroRP  
-- PhantomRP  
-- OneRP  
-- OrionRP  
+- ![WaitRP](https://example.com/logo-waitrp.png) **WaitRP**  
+- ![WavesRP](https://example.com/logo-wavesrp.png) **WavesRP**  
+- ![AstroRP](https://example.com/logo-astrorp.png) **AstroRP**  
+- ![PhantomRP](https://example.com/logo-phantomrp.png) **PhantomRP**  
+- ![OneRP](https://example.com/logo-onerp.png) **OneRP**  
+- ![OrionRP](https://example.com/logo-orionrp.png) **OrionRP**  
 
 Moim celem jest dołączenie do zespołu **FiveCity**, gdzie mógłbym kontynuować swoją pasję i rozwijać unikalne projekty!
 

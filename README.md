@@ -1,47 +1,38 @@
-<h1 align="center">Hi 👋, I'm Garnuszek</h1>
-<h3 align="center">UI Designer, Fivem Developer </h3>
+# 👋 Witaj
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=garnuszel&label=Profile%20views&color=0e75b6&style=flat" alt="garnuszel" />
-</p>
+## 🌟 O mnie
+Cześć! Mam na imię Maciek, ale w społeczności jestem znany jako **Garnuszek**.  
+Jestem **FiveM Developerem** i **UI Designerem** z ponad **5-letnim doświadczeniem**.  
 
-- 🔭 I’m currently working on [AstroRP]
+💻 Specjalizuję się w:  
+- Tworzeniu zaawansowanych skryptów Lua dla FiveM  
+- Projektowaniu nowoczesnych i intuicyjnych interfejsów użytkownika (UI)  
 
-- 🌱 I’m currently learning **JS, Vue**
+🎯 Pracowałem dla wielu znanych serwerów roleplay, takich jak:  
+- WaitRP  
+- WavesRP  
+- AstroRP  
+- PhantomRP  
+- OneRP  
+- OrionRP  
 
-- 👯 I’m looking to collaborate on [FiveCity](https://fivecity.net)
+Moim celem jest dołączenie do zespołu **FiveCity**, gdzie mógłbym kontynuować swoją pasję i rozwijać unikalne projekty!
 
-- 📫 How to reach me **fanszanelki@gmail.com**
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
-  </a>
-</p>
+## 🛠️ Technologie i umiejętności
+- **Języki programowania:** Lua, JavaScript, CSS, SQL  
+- **Frameworki:** ESX, QBCore
+- **Narzędzia:** Visual Studio Code, Figma, PhotoShop  
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Garnuszel&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="Garnuszel's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garnuszel&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="Garnuszel's Top Languages" />
-</div>
+---
+
+## 📈 Statystyki GitHub
+![Statystyki GitHub](https://github-readme-stats.vercel.app/api?username=Garnuszel&show_icons=true&theme=radical)  
+![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=Garnuszel&layout=compact&theme=radical)  
+
+---
+
+## 🌍 Skontaktuj się ze mną
+- **Discord:** garnuchhhh  
+- **E-mail:** fanszanelki@gmail.com *(dopasuj do swojego maila)*  

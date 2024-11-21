@@ -11,10 +11,10 @@ Jestem **FiveM Developerem** i **UI Designerem** z ponad **5-letnim doświadczen
 🎯 Pracowałem dla wielu znanych serwerów roleplay, takich jak:  
 - ![WaitRP](https://example.com/logo-waitrp.png) **WaitRP**  
 - ![WavesRP](https://example.com/logo-wavesrp.png) **WavesRP**  
-- ![AstroRP]([https://example.com/logo-astrorp.png](https://cdn.discordapp.com/attachments/935965291664539668/1309099532776112168/logo.png?ex=67405972&is=673f07f2&hm=8cba43780351aa9fffd82bdfb8d6647ee98a5d23b34ebd4917a0c8d6e7ba2495&)) **AstroRP**  
+- ![AstroRP](https://cdn.discordapp.com/attachments/935965291664539668/1309099532776112168/logo.png?ex=67405972&is=673f07f2&hm=8cba43780351aa9fffd82bdfb8d6647ee98a5d23b34ebd4917a0c8d6e7ba2495&) **AstroRP**  
 - ![PhantomRP](https://example.com/logo-phantomrp.png) **PhantomRP**  
 - ![OneRP](https://example.com/logo-onerp.png) **OneRP**  
-- ![OrionRP]([https://example.com/logo-orionrp.png](https://cdn.discordapp.com/attachments/935965291664539668/1309099532512137216/isdamage.png?ex=67405972&is=673f07f2&hm=f92a3184fd788b5246381216985ca9916e6a2225f853095647530f458fc8b189&)) **OrionRP**  
+- ![OrionRP](https://cdn.discordapp.com/attachments/935965291664539668/1309099532512137216/isdamage.png?ex=67405972&is=673f07f2&hm=f92a3184fd788b5246381216985ca9916e6a2225f853095647530f458fc8b189&) **OrionRP**  
 
 Moim celem jest dołączenie do zespołu **FiveCity**, gdzie mógłbym kontynuować swoją pasję i rozwijać unikalne projekty!
 

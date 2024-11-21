@@ -9,7 +9,7 @@ Jestem **FiveM Developerem** i **UI Designerem** z ponad **5-letnim doświadczen
 - Projektowaniu nowoczesnych i intuicyjnych interfejsów użytkownika (UI)  
 
 🎯 Pracowałem dla wielu znanych serwerów roleplay, takich jak:  
-<p align="left">
+<p align="left" style="display="inline":">
   <img src="https://example.com/logo-waitrp.png" alt="WaitRP" width="30"/> <b>WaitRP</b>  
   <br>
   <img src="https://example.com/logo-wavesrp.png" alt="WavesRP" width="30"/> <b>WavesRP</b>  

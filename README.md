@@ -20,7 +20,7 @@ Jestem **FiveM Developerem** i **UI Designerem** z ponad **5-letnim doświadczen
   <br>
   <img src="https://example.com/logo-onerp.png" alt="OneRP"  width="30"/> <b>OneRP</b>  
   <br>
-  <img src="https://cdn.discordapp.com/attachments/935965291664539668/1309099532512137216/isdamage.png?ex=67405972&is=673f07f2&hm=f92a3184fd788b5246381216985ca9916e6a2225f853095647530f458fc8b189&" alt="OrionRP"  style="display: inline; width="30"/> <b>OrionRP</b> 
+  <img src="https://cdn.discordapp.com/attachments/935965291664539668/1309099532512137216/isdamage.png?ex=67405972&is=673f07f2&hm=f92a3184fd788b5246381216985ca9916e6a2225f853095647530f458fc8b189&" alt="OrionRP"  style="display: inline;" width="30"/> <b>OrionRP</b> 
 </p>
 
 Moim celem jest dołączenie do zespołu **FiveCity**, gdzie mógłbym kontynuować swoją pasję i rozwijać unikalne projekty!

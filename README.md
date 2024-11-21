@@ -40,4 +40,4 @@ Moim celem jest dołączenie do zespołu **FiveCity**, gdzie mógłbym kontynuow
 
 ## 🌍 Skontaktuj się ze mną
 - **Discord:** garnuchhhh  
-- **E-mail:** fanszanelki@gmail.com *(dopasuj do swojego maila)*  
+- **E-mail:** fanszanelki@gmail.com

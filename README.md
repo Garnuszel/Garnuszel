@@ -37,5 +37,5 @@ Jestem **FiveM Developerem** i **UI Designerem** z ponad **5-letnim doświadczen
 ---
 
 ## 🌍 Skontaktuj się ze mną
-- **Discord:** garnuchhhh  
+- **Discord:** garnuchhh 
 - **E-mail:** fanszanelki@gmail.com

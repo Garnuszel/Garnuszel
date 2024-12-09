@@ -31,8 +31,8 @@ Jestem **FiveM Developerem** i **UI Designerem** z ponad **5-letnim doświadczen
 ---
 
 ## 📈 Statystyki GitHub
-![Statystyki GitHub](https://github-readme-stats.vercel.app/api?username=Garnuszel&show_icons=true&theme=radical)  
-![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=Garnuszel&layout=compact&theme=radical)  
+![Statystyki GitHub](https://github-readme-stats.vercel.app/api?username=Garnuszel&show_icons=true&theme=dark)  
+![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=Garnuszel&layout=compact&theme=dark)  
 
 ---
 

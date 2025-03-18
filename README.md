@@ -1,12 +1,13 @@
-# 👋 Witaj
+# 👋 Witaj  
 
-## 🌟 O mnie
+## 🌟 O mnie  
 Cześć! Mam na imię Maciek, ale w społeczności jestem znany jako **Garnuszek**.  
 Jestem **FiveM Developerem** i **UI Designerem** z ponad **5-letnim doświadczeniem**.  
 
 💻 Specjalizuję się w:  
-- Tworzeniu zaawansowanych skryptów Lua  
+- Tworzeniu zaawansowanych skryptów w Lua  
 - Projektowaniu nowoczesnych i intuicyjnych interfejsów użytkownika (UI)  
+- Optymalizacji kodu i poprawianiu wydajności skryptów  
 
 🎯 Pracowałem dla wielu znanych serwerów roleplay, takich jak:  
 <p align="left">
@@ -18,24 +19,30 @@ Jestem **FiveM Developerem** i **UI Designerem** z ponad **5-letnim doświadczen
   <br>
   <img src="https://cdn.discordapp.com/attachments/935965291664539668/1309114957530402876/logoonerp.png?ex=674067d0&is=673f1650&hm=24dfe9a8c2f4e69ea4dc99b6c13c7e30e81e17d5da0967b9d9e1f1f9d724558e&" alt="OneRP" width="25"/> <b>OneRP</b>  
   <br>
-  <img src="https://cdn.discordapp.com/attachments/935965291664539668/1309099532512137216/isdamage.png?ex=67405972&is=673f07f2&hm=f92a3184fd788b5246381216985ca9916e6a2225f853095647530f458fc8b189&" alt="OrionRP" width="25"/> <b>OrionRP</b> 
-</p>
+  <img src="https://cdn.discordapp.com/attachments/935965291664539668/1309099532512137216/isdamage.png?ex=67405972&is=673f07f2&hm=f92a3184fd788b5246381216985ca9916e6a2225f853095647530f458fc8b189&" alt="OrionRP" width="25"/> <b>OrionRP</b>  
+</p>  
+
+🔹 **Aktualnie pracuję dla FlytoRP** 🚀  
 
 ---
 
-## 🛠️ Technologie i umiejętności
-- **Języki programowania:** Lua, JavaScript, CSS, SQL  
-- **Frameworki:** ESX, QBCore
-- **Narzędzia:** Visual Studio Code, Figma, PhotoShop  
+## 🛠️ Technologie i umiejętności  
+- **Języki programowania:** Lua, JavaScript, Python, CSS, SQL  
+- **Frameworki:** ESX, QBCore  
+- **Narzędzia:** Visual Studio Code, Figma, Photoshop  
+- **Dodatkowe umiejętności:**  
+  - Tworzenie skryptów backendowych i frontendowych  
+  - Integracja API  
+  - Optymalizacja i debugowanie kodu  
 
 ---
 
-## 📈 Statystyki GitHub
+## 📈 Statystyki GitHub  
 ![Statystyki GitHub](https://github-readme-stats.vercel.app/api?username=Garnuszel&show_icons=true&theme=dark)  
 ![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=Garnuszel&layout=compact&theme=dark)  
 
 ---
 
-## 🌍 Skontaktuj się ze mną
-- **Discord:** garnuchhh 
-- **E-mail:** fanszanelki@gmail.com
+## 🌍 Skontaktuj się ze mną  
+- **Discord:** garnuchhh  
+- **E-mail:** fanszanelki@gmail.com 

@@ -30,11 +30,6 @@ Jestem **FiveM Developerem** i **UI Designerem** z ponad **5-letnim doświadczen
 - **Języki programowania:** Lua, JavaScript, Python, CSS, SQL  
 - **Frameworki:** ESX, QBCore  
 - **Narzędzia:** Visual Studio Code, Figma, Photoshop  
-- **Dodatkowe umiejętności:**  
-  - Tworzenie skryptów backendowych i frontendowych  
-  - Integracja API  
-  - Optymalizacja i debugowanie kodu  
-
 ---
 
 ## 📈 Statystyki GitHub  

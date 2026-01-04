@@ -7,7 +7,6 @@ Jestem **FiveM Developerem** i **UI Designerem** z ponad **5-letnim doświadczen
 💻 Specjalizuję się w:  
 - Tworzeniu zaawansowanych skryptów w Lua  
 - Projektowaniu nowoczesnych i intuicyjnych interfejsów użytkownika (UI)  
-- Optymalizacji kodu i poprawianiu wydajności skryptów  
 
 🎯 Pracowałem dla wielu znanych serwerów roleplay, takich jak:  
 <p align="left">
